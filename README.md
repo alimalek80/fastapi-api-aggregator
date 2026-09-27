@@ -15,6 +15,8 @@ That's roughly a **5x speedup**.
 
 ## Django vs FastAPI, side by side
 
+In the previous project, [async-api-aggregator](https://github.com/alimalek80/async-api-aggregator), the same benchmark was built with Django and DRF. The comparison between the two is as follows:
+
 | | Django/DRF | FastAPI |
 |---|---|---|
 | Sync | 8.57s | 7.92s |
